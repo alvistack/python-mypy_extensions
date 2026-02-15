@@ -1,0 +1,4 @@
+python3-mypy-extensions: copyright-without-copyright-notice
+python3-mypy-extensions: initial-upload-closes-no-bugs
+python3-mypy-extensions: no-manual-page
+python3-mypy-extensions: zero-byte-file-in-doc-directory

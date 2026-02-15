@@ -1,0 +1,5 @@
+python-mypy-extensions source: file-without-copyright-information
+python-mypy-extensions source: no-debian-changes
+python-mypy-extensions source: source-contains-prebuilt-windows-binary
+python-mypy-extensions source: source-is-missing
+python-mypy-extensions source: source-package-encodes-python-version
